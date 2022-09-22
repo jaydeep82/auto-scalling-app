@@ -1,0 +1,8 @@
+{
+    "name":"auto-scalling-nodejs-app",
+    "version": "1.0.0",
+    "author": "jaydeepswe",
+    "dependencies": {
+        "express":"4.18.1"
+    }
+}
